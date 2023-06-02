@@ -20,6 +20,15 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="#portofolio">Portofolio</a></li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More</a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="blog.html">About Me</a>
+                      <a class="dropdown-item" href="testimonials.html">My Educational Journey</a>
+                      <a class="dropdown-item" href="team.html">My Skills</a>
+                      <a class="dropdown-item" href="terms.html">Certificate</a>
+                    </div>
+                </li>
                 <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                 <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
@@ -113,82 +122,82 @@
     </div>
 
     <section class="skills-section">
-  <div class="container">
-    <div class="section-heading">
-      <h2>Skills</h2>
-      <h5>Touch to Discover My Potential</h5>
-      <div class="separator"></div>
-    </div>
-    <div class="row">
-      <div class="col-md-4">
-        <div class="skill-box">
-          <button class="skill-btn">Soft Skills</button>
-          <ul class="sub-skills">
-            <li>Problem Solving</li>
-            <li>Time Management</li>
-            <li>Project Management</li>
-            <li>Computational Thinking</li>
-            <li>Teamwork</li>
-          </ul>
+      <div class="container">
+        <div class="section-heading">
+          <h2>Skills</h2>
+          <h5>Touch to Discover My Potential</h5>
+          <div class="separator"></div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="skill-box">
+              <button class="skill-btn">Soft Skills</button>
+              <ul class="sub-skills">
+                <li>Problem Solving</li>
+                <li>Time Management</li>
+                <li>Project Management</li>
+                <li>Computational Thinking</li>
+                <li>Teamwork</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="skill-box">
+              <button class="skill-btn">UI Design</button>
+              <ul class="sub-skills">
+                <li>Figma</li>
+                <li>Adobe XD</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="skill-box">
+              <button class="skill-btn">Web Development</button>
+              <ul class="sub-skills">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Bootstrap</li>
+                <li>Tailwind CSS</li>
+                <li>CodeIgniter3</li>
+                <li>Laravel</li>
+                <li>Git</li>
+                <li>Github</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="skill-box">
+              <button class="skill-btn">Programming Languages</button>
+              <ul class="sub-skills">
+                <li>Java</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+                <li>PHP</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="skill-box">
+              <button class="skill-btn">Databases</button>
+              <ul class="sub-skills">
+                <li>MySQL</li>
+                <li>Oracle</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="skill-box">
+              <button class="skill-btn">Microsoft Office Suite</button>
+              <ul class="sub-skills">
+                <li>Word</li>
+                <li>PowerPoint</li>
+                <li>Excel</li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="col-md-4">
-        <div class="skill-box">
-          <button class="skill-btn">UI Design</button>
-          <ul class="sub-skills">
-            <li>Figma</li>
-            <li>Adobe XD</li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="skill-box">
-          <button class="skill-btn">Web Development</button>
-          <ul class="sub-skills">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Bootstrap</li>
-            <li>Tailwind CSS</li>
-            <li>CodeIgniter3</li>
-            <li>Laravel</li>
-            <li>Git</li>
-            <li>Github</li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="skill-box">
-          <button class="skill-btn">Programming Languages</button>
-          <ul class="sub-skills">
-            <li>Java</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>PHP</li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="skill-box">
-          <button class="skill-btn">Databases</button>
-          <ul class="sub-skills">
-            <li>MySQL</li>
-            <li>Oracle</li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="skill-box">
-          <button class="skill-btn">Microsoft Office Suite</button>
-          <ul class="sub-skills">
-            <li>Word</li>
-            <li>PowerPoint</li>
-            <li>Excel</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
     <div id = "blog" class="services" style="background-image: url(<?= base_url('assets/'); ?>images/other-image-fullscren-1-1920x900.jpg);" >
       <div class="container">
