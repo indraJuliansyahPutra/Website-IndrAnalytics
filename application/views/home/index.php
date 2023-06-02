@@ -54,7 +54,7 @@
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <a href="offers.html"><img src="assets/images/Untitled/ASL.png" alt=""></a>
+              <a href="offers.html"><img src="<?= base_url('assets/'); ?>images/Untitled/ASL.png" alt=""></a>
               <div class="down-content">
                 <a href="offers.html"><h4>HandSignAI: ASL Gesture Detection</h4></a>
                   <p>The Laptop Data Visualization Project uses Python and popular libraries like Matplotlib and Seaborn to analyze and visualize laptop data, creating informative graphs and charts.</p>
@@ -64,7 +64,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="offers.html"><img src="assets/images/Untitled/Laptop.png" alt=""></a>
+              <a href="offers.html"><img src="<?= base_url('assets/'); ?>images/Untitled/Laptop.png" alt=""></a>
               <div class="down-content">
                 <a href="offers.html"><h4>HandSignAI: ASL Gesture Detection</h4></a>
                   <p>The Laptop Data Visualization Project uses Python and popular libraries like Matplotlib and Seaborn to analyze and visualize laptop data, creating informative graphs and charts.</p>
@@ -74,7 +74,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="offers.html"><img src="assets/images/Untitled/ASL.png" alt=""></a>
+              <a href="offers.html"><img src="<?= base_url('assets/'); ?>images/Untitled/ASL.png" alt=""></a>
               <div class="down-content">
                 <a href="offers.html"><h4>HandSignAI: ASL Gesture Detection</h4></a>
                   <p>The Laptop Data Visualization Project uses Python and popular libraries like Matplotlib and Seaborn to analyze and visualize laptop data, creating informative graphs and charts.</p>
@@ -105,14 +105,14 @@
           </div>
           <div class="col-md-6">
             <div class="right-image">
-              <img src="assets/images/about-1-570x350.jpg" alt="">
+              <img src="<?= base_url('assets/'); ?>images/about-1-570x350.jpg" alt="">
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="services" style="background-image: url(assets/images/other-image-fullscren-1-1920x900.jpg);" >
+    <div class="services" style="background-image: url(<?= base_url('assets/'); ?>images/other-image-fullscren-1-1920x900.jpg);" >
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -125,7 +125,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="assets/images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="#" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
                 <h4><a href="#">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
@@ -136,7 +136,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="#" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
                 <h4><a href="#">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
@@ -147,7 +147,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="#" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
                 <h4><a href="#">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
