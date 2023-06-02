@@ -1,4 +1,4 @@
- <!-- ***** Preloader Start ***** -->
+<!-- ***** Preloader Start ***** -->
  <div id="preloader">
         <div class="jumper">
             <div></div>
@@ -36,7 +36,7 @@
         <div class="banner-item-01">
           <div class="text-content">
             <h4>IndrAnalytics!</h4>
-            <h2>Lorem ipsum dolor sit amet</h2>
+            <h2>Insights That Inspire Action</h2>
           </div>
         </div>
       </div>
@@ -54,9 +54,9 @@
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <a href="offers.html"><img src="<?= base_url('assets/'); ?>images/Untitled/ASL.png" alt=""></a>
+              <a href="https://github.com/indraJuliansyahPutra/Hand-Gesture-Detection"><img src="<?= base_url('assets/'); ?>images/Untitled/ASL.png" alt=""></a>
               <div class="down-content">
-                <a href="offers.html"><h4>HandSignAI: ASL Gesture Detection</h4></a>
+                <a href="https://github.com/indraJuliansyahPutra/Hand-Gesture-Detection"><h4>HandSignAI: ASL Gesture Detection</h4></a>
                   <p>The Laptop Data Visualization Project uses Python and popular libraries like Matplotlib and Seaborn to analyze and visualize laptop data, creating informative graphs and charts.</p>
               </div>
             </div>
@@ -64,9 +64,9 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="offers.html"><img src="<?= base_url('assets/'); ?>images/Untitled/Laptop.png" alt=""></a>
+              <a href="https://github.com/indraJuliansyahPutra/Laptop-Price"><img src="<?= base_url('assets/'); ?>images/Untitled/Laptop.png" alt=""></a>
               <div class="down-content">
-                <a href="offers.html"><h4>HandSignAI: ASL Gesture Detection</h4></a>
+                <a href="https://github.com/indraJuliansyahPutra/Laptop-Price"><h4>HandSignAI: ASL Gesture Detection</h4></a>
                   <p>The Laptop Data Visualization Project uses Python and popular libraries like Matplotlib and Seaborn to analyze and visualize laptop data, creating informative graphs and charts.</p>
               </div>
             </div>
@@ -74,9 +74,9 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="offers.html"><img src="<?= base_url('assets/'); ?>images/Untitled/ASL.png" alt=""></a>
+              <a href="https://github.com/indraJuliansyahPutra/Hand-Gesture-Detection"><img src="<?= base_url('assets/'); ?>images/Untitled/ASL.png" alt=""></a>
               <div class="down-content">
-                <a href="offers.html"><h4>HandSignAI: ASL Gesture Detection</h4></a>
+                <a href="https://github.com/indraJuliansyahPutra/Hand-Gesture-Detection"><h4>HandSignAI: ASL Gesture Detection</h4></a>
                   <p>The Laptop Data Visualization Project uses Python and popular libraries like Matplotlib and Seaborn to analyze and visualize laptop data, creating informative graphs and charts.</p>
               </div>
             </div>
@@ -105,53 +105,125 @@
           </div>
           <div class="col-md-6">
             <div class="right-image">
-              <img src="<?= base_url('assets/'); ?>images/about-1-570x350.jpg" alt="">
+              <img src="<?= base_url('assets/'); ?>images/Untitled/logo.png" alt="">
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="services" style="background-image: url(<?= base_url('assets/'); ?>images/other-image-fullscren-1-1920x900.jpg);" >
+    <section class="skills-section">
+  <div class="container">
+    <div class="section-heading">
+      <h2>Skills</h2>
+      <h5>Touch to Discover My Potential</h5>
+      <div class="separator"></div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="skill-box">
+          <button class="skill-btn">Soft Skills</button>
+          <ul class="sub-skills">
+            <li>Problem Solving</li>
+            <li>Time Management</li>
+            <li>Project Management</li>
+            <li>Computational Thinking</li>
+            <li>Teamwork</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="skill-box">
+          <button class="skill-btn">UI Design</button>
+          <ul class="sub-skills">
+            <li>Figma</li>
+            <li>Adobe XD</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="skill-box">
+          <button class="skill-btn">Web Development</button>
+          <ul class="sub-skills">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Bootstrap</li>
+            <li>Tailwind CSS</li>
+            <li>CodeIgniter3</li>
+            <li>Laravel</li>
+            <li>Git</li>
+            <li>Github</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="skill-box">
+          <button class="skill-btn">Programming Languages</button>
+          <ul class="sub-skills">
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>PHP</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="skill-box">
+          <button class="skill-btn">Databases</button>
+          <ul class="sub-skills">
+            <li>MySQL</li>
+            <li>Oracle</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="skill-box">
+          <button class="skill-btn">Microsoft Office Suite</button>
+          <ul class="sub-skills">
+            <li>Word</li>
+            <li>PowerPoint</li>
+            <li>Excel</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <div id = "blog" class="services" style="background-image: url(<?= base_url('assets/'); ?>images/other-image-fullscren-1-1920x900.jpg);" >
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Latest blog posts</h2>
 
-              <a href="blog.html">read more <i class="fa fa-angle-right"></i></a>
+              <a href="https://medium.com/@mrindrajuliansyahputra10">read more <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
-
+              <a href="https://medium.com/@mrindrajuliansyahputra10/exploring-laptop-price-and-specifications-part-1-a-data-cleaning-analysis-using-python-eac08d75cde9" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/Untitled/Story 1.png" class="img-fluid" alt=""></a>
               <div class="down-content">
-                <h4><a href="#">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
-
+                <h4><a href="https://medium.com/@mrindrajuliansyahputra10/exploring-laptop-price-and-specifications-part-1-a-data-cleaning-analysis-using-python-eac08d75cde9">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
                 <p style="margin: 0;"> Indra Juliansyah Putra &nbsp;&nbsp;|&nbsp;&nbsp; <?= date('d/m/Y') ?></p>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
-
+              <a href="https://medium.com/@mrindrajuliansyahputra10/exploring-laptop-price-and-specifications-part-1-a-data-cleaning-analysis-using-python-eac08d75cde9" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/Untitled/Story 2.png" class="img-fluid" alt=""></a>
               <div class="down-content">
-                <h4><a href="#">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
-
+                <h4><a href="https://medium.com/@mrindrajuliansyahputra10/exploring-laptop-price-and-specifications-part-1-a-data-cleaning-analysis-using-python-eac08d75cde9">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
                 <p style="margin: 0;"> Indra Juliansyah Putra &nbsp;&nbsp;|&nbsp;&nbsp; <?= date('d/m/Y') ?></p>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
-
+              <a href="https://medium.com/@mrindrajuliansyahputra10/exploring-laptop-price-and-specifications-part-1-a-data-cleaning-analysis-using-python-eac08d75cde9" class="services-item-image"><img src="<?= base_url('assets/'); ?>images/Untitled/Story 3.png" class="img-fluid" alt=""></a>
               <div class="down-content">
-                <h4><a href="#">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
-
+                <h4><a href="https://medium.com/@mrindrajuliansyahputra10/exploring-laptop-price-and-specifications-part-1-a-data-cleaning-analysis-using-python-eac08d75cde9">Exploring Laptop Price and Specifications Part 1: A Data Preparation using Python</a></h4>
                 <p style="margin: 0;"> Indra Juliansyah Putra &nbsp;&nbsp;|&nbsp;&nbsp; <?= date('d/m/Y') ?></p>
               </div>
             </div>
@@ -187,7 +259,6 @@
                     <div class="contact-form">
                         <h2 id="tulisan" class="section-heading">Get In Touch</h2>
                         <hr class="my-4">
-                        <p class="text-center">Have a project in mind? Let's discuss and bring your ideas to life. Reach out to me via email or phone.</p>
                         <form>
                             <div class="form-row">
                                 <div class="col-md-6">
@@ -203,7 +274,7 @@
                                 <label for="message">Message</label>
                                 <textarea class="form-control" id="message" rows="5" placeholder="Your Message" required></textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" class="btn btn-danger">Submit</button>
                         </form>
                     </div>
                 </div>
@@ -230,13 +301,12 @@
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Social Media</h4>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/indra.juliansyah.980"><i class="fa fa-facebook"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/affanul"><i class="fa fa-stack-overflow"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://stackoverflow.com/users/20861252/indra-juliansyah-putra"><i class="fa fa-stack-overflow"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/abdi_ijul/"><i class="fa fa-instagram"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/indra-juliansyah-5119bb185/"><i class="fa fa-linkedin"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/indraJuliansyahPutra"><i class="fa fa-github"></i></a>
-                    <p class="copyright">
-                        &copy; 2023 YourWebsite.com. All rights reserved.
-                    </p>
+                    
+                    <p class="copyright">Copyright &copy; 2023 - <a href="https://www.indranalytics.com/">IndrAnalytics.com</a></p>
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">

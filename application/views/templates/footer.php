@@ -6,5 +6,6 @@
     <!-- Additional Scripts -->
     <script src="<?= base_url('assets/'); ?>js/custom.js"></script>
     <script src="<?= base_url('assets/'); ?>js/owl.js"></script>
+    <script src="<?= base_url('assets/'); ?>js/skills.js"></script>
   </body>
 </html>

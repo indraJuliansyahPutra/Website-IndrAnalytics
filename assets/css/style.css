@@ -82,6 +82,11 @@ a.filled-button:hover {
 	margin-bottom: 15px;
 }
 
+.section-heading h5 {
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
 .page-heading {
 	padding: 210px 0px 130px 0px;
 	text-align: center;
@@ -901,6 +906,53 @@ footer .inner-content p a {
 	opacity: 0.8;
 }
 
+
+.skills-section {
+	background: #fff;
+	padding: 80px 0;
+  }
+  
+  .section-heading {
+	text-align: center;
+	margin-bottom: 50px;
+  }
+  
+  .separator {
+	width: 80px;
+	height: 3px;
+	background-color: #ff6b6b;
+	margin: 0 auto;
+  }
+  
+  .skill-box {
+	text-align: center;
+	margin-bottom: 30px;
+  }
+  
+  .skill-btn {
+	background-color: #ff6b6b;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .skill-btn:hover {
+	background-color: #e83e3e;
+  }
+  
+  .sub-skills {
+	display: none;
+	list-style-type: none;
+	padding-left: 0;
+	margin-top: 10px;
+  }
+  
+  .skill-box.active .sub-skills {
+	display: block;
+  }
+  
 /* Send Message */
 
 .send-message {
